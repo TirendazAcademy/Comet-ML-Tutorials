@@ -15,8 +15,6 @@ This repository will help you get started with Comet ML by showing you how to in
 
 ## Comet Features
 
-![](https://github.com/TirendazAcademy/Comet-ML-Tutorials/blob/main/Images/Comet-Features.png)
-
 Comet ML offers a comprehensive set of features to support every stage of the machine learning lifecycle. These features include:
 
 - Experiment tracking and management: Keep track of training runs and models, with the ability to easily reproduce experiments.
