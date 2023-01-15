@@ -1,4 +1,4 @@
-![](https://github.com/TirendazAcademy/Comet-Tutorials/blob/main/Images/Comet_Logo.jpg)
+![](https://github.com/TirendazAcademy/Comet-ML-Tutorials/blob/main/Images/comet-ml.png)
 
 [![](https://img.shields.io/badge/Python-00092C?&style=plastic&logo=python&logoColor=white)]()
 [![](https://img.shields.io/badge/Comet-DC3535?style=plastic&logo=comet_ml&logoColor=white)]()
@@ -15,7 +15,7 @@ This repository will help you get started with Comet ML by showing you how to in
 
 ## Comet Features
 
-![](https://github.com/TirendazAcademy/Comet-Tutorials/blob/main/Images/ML_dev_cycle.png)
+![](https://github.com/TirendazAcademy/Comet-ML-Tutorials/blob/main/Images/Comet-Features.png)
 
 Comet ML offers a comprehensive set of features to support every stage of the machine learning lifecycle. These features include:
 
