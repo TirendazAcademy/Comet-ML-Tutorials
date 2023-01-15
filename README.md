@@ -1,7 +1,7 @@
 ![](https://github.com/TirendazAcademy/Comet-ML-Tutorials/blob/main/Images/comet-ml.png)
 
 [![](https://img.shields.io/badge/Python-00092C?&style=plastic&logo=python&logoColor=white)]()
-[![](https://img.shields.io/badge/Comet-DC3535?style=plastic&logo=comet_ml&logoColor=white)]()
+[![](https://img.shields.io/badge/CometML-DC3535?style=plastic&logo=comet_ml&logoColor=white)]()
 [![](https://img.shields.io/badge/TensorFlow-FF6E31?&style=plastic&logo=tensorflow&logoColor=white)]()
 [![](https://img.shields.io/badge/Pytorch-470D21?&style=plastic&logo=pytorch&logoColor=white)]()
 [![](https://img.shields.io/badge/HuggingFace-CB1C8D?&style=plastic&logo=huggingface&logoColor=white)]()
