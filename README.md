@@ -10,8 +10,7 @@
 [![](https://img.shields.io/badge/DeepLearning-820000?&style=plastic&logo=deeplearning&logoColor=white)]()
 
 
-Comet ML is an experiment tracking platform that allows data scientists and machine learning engineers to track, compare, and collaborate on their machine learning experiments. This GitHub repository contains a sample project that demonstrates how to use Comet ML to track the progress of a machine learning model, including metrics, code, and artifacts, all in one place. With Comet ML, you can easily reproduce, understand, and optimize your experiments, and share your results with your team. 
-This repository will help you get started with Comet ML by showing you how to integrate it into your machine learning project.
+[Comet ML](https://www.comet.com/site/) is an experiment tracking platform that allows data scientists and machine learning engineers to track, compare, and collaborate on their machine learning experiments. This GitHub repository contains sample projects that demonstrate how to use Comet ML to track the progress of a machine learning model, including metrics, code, and artifacts, all in one place. With Comet ML, you can easily reproduce, understand, and optimize your experiments, and share your results with your team. This repository will help you get started with Comet ML by showing you how to integrate it into your machine learning project.
 
 ## Comet Features
 
