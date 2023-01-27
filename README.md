@@ -45,6 +45,6 @@ experiment = Experiment(
 )
 ```
 
-📌 If you enjoy this repo, don't forget to give me a ✨. Thanks for reading 😀
+📌 Thanks for reading 😀 If you enjoy this repo, don't forget to give it a ✨
 
 🔗 Let's connect [YouTube](http://youtube.com/tirendazacademy) | [Medium](http://tirendazacademy.medium.com) | [Twitter](http://twitter.com/tirendazacademy) | [Instagram](https://www.instagram.com/tirendazacademy) 😎
