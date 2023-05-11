@@ -1,7 +1,7 @@
-![](https://github.com/TirendazAcademy/Comet-Tutorials/blob/main/Images/Comet_Logo.jpg)
+![](https://github.com/TirendazAcademy/Comet-ML-Tutorials/blob/main/Images/comet-ml.png)
 
 [![](https://img.shields.io/badge/Python-00092C?&style=plastic&logo=python&logoColor=white)]()
-[![](https://img.shields.io/badge/Comet-DC3535?style=plastic&logo=comet_ml&logoColor=white)]()
+[![](https://img.shields.io/badge/CometML-DC3535?style=plastic&logo=comet_ml&logoColor=white)]()
 [![](https://img.shields.io/badge/TensorFlow-FF6E31?&style=plastic&logo=tensorflow&logoColor=white)]()
 [![](https://img.shields.io/badge/Pytorch-470D21?&style=plastic&logo=pytorch&logoColor=white)]()
 [![](https://img.shields.io/badge/HuggingFace-CB1C8D?&style=plastic&logo=huggingface&logoColor=white)]()
@@ -10,12 +10,9 @@
 [![](https://img.shields.io/badge/DeepLearning-820000?&style=plastic&logo=deeplearning&logoColor=white)]()
 
 
-Comet ML is an experiment tracking platform that allows data scientists and machine learning engineers to track, compare, and collaborate on their machine learning experiments. This GitHub repository contains a sample project that demonstrates how to use Comet ML to track the progress of a machine learning model, including metrics, code, and artifacts, all in one place. With Comet ML, you can easily reproduce, understand, and optimize your experiments, and share your results with your team. 
-This repository will help you get started with Comet ML by showing you how to integrate it into your machine learning project.
+[Comet ML](https://www.comet.com/site/) is an experiment tracking platform that allows data scientists and machine learning engineers to track, compare, and collaborate on their machine learning experiments. This GitHub repository contains sample projects that demonstrate how to use Comet ML to track the progress of a machine learning model, including metrics, code, and artifacts, all in one place. With Comet ML, you can easily reproduce, understand, and optimize your experiments, and share your results with your team. This repository will help you get started with Comet ML by showing you how to integrate it into your machine learning project.
 
 ## Comet Features
-
-![](https://github.com/TirendazAcademy/Comet-Tutorials/blob/main/Images/ML_dev_cycle.png)
 
 Comet ML offers a comprehensive set of features to support every stage of the machine learning lifecycle. These features include:
 
@@ -48,6 +45,6 @@ experiment = Experiment(
 )
 ```
 
-📌 If you enjoy this repo, don't forget to give me a ✨. Thanks for reading 😀
+📌 Thanks for reading 😀 If you enjoy this repo, don't forget to give it a ✨
 
 🔗 Let's connect [YouTube](http://youtube.com/tirendazacademy) | [Medium](http://tirendazacademy.medium.com) | [Twitter](http://twitter.com/tirendazacademy) | [Instagram](https://www.instagram.com/tirendazacademy) 😎
